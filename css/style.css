@@ -1,0 +1,21 @@
+h1,h2{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+#lista{
+ width: 130px; margin: 0 auto;
+}
+#icone{
+ width: 40px; margin: 0 auto;
+}
+
+.circular {
+	width: 130px; margin: 0 auto;
+	width: 200px;
+	height: 200px;
+	border-radius: 150px;
+	background: url(../img/pf.jpeg) no-repeat;
+	}
